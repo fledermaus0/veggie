@@ -1,1 +1,4 @@
 Vegetable_Images/*
+veggie_data/*
+*.jpg
+.ipynb_checkpoints/
